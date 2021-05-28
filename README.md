@@ -1,2 +1,3 @@
-# My_CV
-A static website to display my CV.
+## MY CV
+
+*Have a look at my personal static website of my CV!*
